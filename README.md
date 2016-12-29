@@ -1,0 +1,1 @@
+# protobuf_2.6_1_for_vs2008_and_golang
